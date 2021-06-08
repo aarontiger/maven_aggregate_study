@@ -1,0 +1,4 @@
+# Project exclude paths
+/e3common/target/
+/e3manager/e3-manager-pojo/target/
+/e3manager/e3-manager-web/target/

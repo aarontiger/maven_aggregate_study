@@ -1,0 +1,4 @@
+server:
+  port: 9120
+  servlet:
+    context-path: /dms
